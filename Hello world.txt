@@ -1,4 +1,4 @@
-print ("hello world")
-print ("new commit")
-print ("star")
+print ("hello world");
+print ("new commit");
+print ("star");
 hello
